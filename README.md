@@ -1,5 +1,10 @@
 # Spectroscope
 
+> **This project is retired.** Spectroscope is part of
+> [Spectrum](https://github.com/rubyworks/spectrum) since version 0.2:
+> `require 'spectrum/describe'`. The gem remains on RubyGems and the code remains
+> here for reference.
+
 FreeBSD Copyright (c) 2012 Rubyworks
 
 [Homepage](http://rubyworks.github.com/spectroscope) /
